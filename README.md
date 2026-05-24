@@ -18,4 +18,4 @@ When the user gets in the bathroom in the morning, LLM will ask if they need hel
  * We implemented complete end to end user flow to demonstrate a location-triggered conversation between LLM and user
 All data flow are local, i.e. , absolutely no data uploaded to any servers to fully protect user privacy and optimize for cost and latency
 
-* Please check the repo for python code
+* Model Fine Tuning: https://colab.research.google.com/drive/17OFO3x5PkG_VyCx7i3C9Hr_XN2x7NDyp?authuser=1
